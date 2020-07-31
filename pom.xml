@@ -9,9 +9,9 @@
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
 	<groupId>com.softland.todo</groupId>
-	<artifactId>restful-web-services</artifactId>
+	<artifactId>todo-restful</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
-	<name>restful-web-services</name>
+	<name>todo-restful</name>
 	<description>Demo project for Spring Boot</description>
 
 	<properties>
